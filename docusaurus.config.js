@@ -68,8 +68,8 @@ const config = {
       navbar: {
         title: 'Pes patron',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/pes patron.svg',
+          alt: 'Pes patron',
+          src: 'img/logo.svg',
         },
         items: [
           {
