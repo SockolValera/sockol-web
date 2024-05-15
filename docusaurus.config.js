@@ -69,7 +69,7 @@ const config = {
         title: 'Pes patron',
         logo: {
           alt: 'Pes patron',
-          src: 'img/logo.svg',
+          src: 'img/Flag_of_Ukraine.svg.png',
         },
         items: [
           {
